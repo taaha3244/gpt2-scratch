@@ -1,1 +1,1 @@
-# llm--from-scratch
+# gpt2
